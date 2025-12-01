@@ -154,39 +154,39 @@ h1{
     border-radius: 5%;
 }
 .img1{
-    background-image: url(/gaurav\ verma.png);
+    background-image: url(/portfolio/gaurav\ verma.png);
     background-size: cover;
 }
 .img2{
-    background-image: url(/Innotech25_Certificate_GAURAV_VERMA.png);
+    background-image: url(/portfolio/Innotech25_Certificate_GAURAV_VERMA.png);
     background-size: cover;
 }
 .img3{
-    background-image: url(/certiimg3.jpg);
+    background-image: url(/portfolio/certiimg3.jpg);
     background-size: cover;
 }
 .img4{
-    background-image: url(/certiimg4.jpg);
+    background-image: url(/portfolio/certiimg4.jpg);
     background-size: cover;
 }
 .img5{
-    background-image: url(/img5.jpeg);
+    background-image: url(/portfolio/img5.jpeg);
     background-size: cover;
 }
 .img6{
-    background-image: url(/img6.jpeg);
+    background-image: url(/portfolio/img6.jpeg);
     background-size: cover;
 }
 .morsecode{
-    background-image: url(/morsecode.jpeg);
+    background-image: url(/portfolio/morsecode.jpeg);
     background-size: cover;
 }
 .library{
-    background-image: url(/library.jpeg);
+    background-image: url(/portfolio/library.jpeg);
     background-size: cover;
 }
 .portfolio{
-    background-image: url(/portfolio.png);
+    background-image: url(/portfolio/portfolio.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -219,25 +219,25 @@ h2{
     justify-content: space-evenly;
 }
 .linkedin{
-    background-image: url(/linkedinlogo.webp);
+    background-image: url(/portfolio/linkedinlogo.webp);
     background-size: cover;
 }
 .whatsapp{
-    background-image: url(/whatsapplogo.webp);
+    background-image: url(/portfolio/whatsapplogo.webp);
     background-size: cover;
 }
 .telegram{
-    background-image: url(/Telegramlogo.png);
+    background-image: url(/portfolio/Telegramlogo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 .instagram{
-    background-image: url(/instagramlogo.webp);
+    background-image: url(/portfolio/instagramlogo.webp);
     background-size: cover;
 }
 .Xlogo{
-    background-image: url(/Xlogo.png);
+    background-image: url(/portfolio/Xlogo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -357,4 +357,5 @@ a{
     }
 
 }
+
 
