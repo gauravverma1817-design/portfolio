@@ -39,7 +39,7 @@
     -webkit-text-fill-color: transparent;
 }
 body{
-    background-image: url(pback.jpg);
+    background-image: url(/portfolio/pback.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -357,3 +357,4 @@ a{
     }
 
 }
+
