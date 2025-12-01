@@ -62,9 +62,9 @@ This section proves my commitment to learning and excellence:
 
 I'm always open to new opportunities and collaborations. Feel free to connect via any of the platforms below:
 
-* **LinkedIn:** [Your LinkedIn URL]
-* **GitHub:** [Your GitHub Profile URL]
-* **Email:** [Your Professional Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/gaurav-verma-622747382/
+* **GitHub:** 
+* **Email:** gauravverma1817@gmail.com
 * **Other Platforms:** WhatsApp, Instagram, Telegram, X (Twitter)
 
 ---
