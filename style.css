@@ -1,0 +1,358 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.4em;
+    border-radius: 5px;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    padding: 20px 0;
+    border-bottom: 1px solid #1f2937;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.features{
+    margin-left: 3em;
+    padding-right: 2em;
+    font-size: 1.5em;
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.logo{
+    padding-bottom: 2em;
+    padding-left: 0.4em;
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2em;
+    padding-left: 2em;
+}
+.logo1{
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body{
+    background-image: url(/pback.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.profile-img{
+    height: 250px;
+    width: 250px;
+    border: 10px solid #090037;
+    border-radius: 100%;
+    box-shadow: 0px 0px 30px 20px #4F2A2A;
+}
+.profileimg{
+    padding-left: 42%;
+    padding-top: 6em;
+}
+.imgaurav{
+    font-size: 3em;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.namegrad{
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tagline {
+    color: #1611ab;
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    border: 2px solid #4F2A2A ;
+    box-shadow: 0 0 5px #4F2A2A;
+    padding: 8px;
+    width: 23%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    margin-top: 2em;
+}
+h1{
+    margin-top: 0px;
+}
+.imdeve{
+    font-size: 0.4em;
+    color: antiquewhite;
+}
+.about{
+    color: aliceblue;
+    font-size: 2em;
+    text-align: center;
+    background: linear-gradient(to right,#616165,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.para-about-me{
+    color: aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-size: 2em;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 7em;
+}
+.skill-box{
+    height: 10em;
+    width: 20em;
+    border: 2px solid white;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px 20px #090037;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 3em;
+}
+.project-box{
+    height: 25em;
+    width: 20em;
+    border: 2px solid white;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px 20px #4F2A2A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3em;
+}
+.project-img{
+    border: 2px solid white;
+    height: 12em;
+    width: 17em;
+    border-radius: 5%;
+}
+.img1{
+    background-image: url(/gaurav\ verma.png);
+    background-size: cover;
+}
+.img2{
+    background-image: url(/Innotech25_Certificate_GAURAV_VERMA.png);
+    background-size: cover;
+}
+.img3{
+    background-image: url(/certiimg3.jpg);
+    background-size: cover;
+}
+.img4{
+    background-image: url(/certiimg4.jpg);
+    background-size: cover;
+}
+.img5{
+    background-image: url(/img5.jpeg);
+    background-size: cover;
+}
+.img6{
+    background-image: url(/img6.jpeg);
+    background-size: cover;
+}
+.morsecode{
+    background-image: url(/morsecode.jpeg);
+    background-size: cover;
+}
+.library{
+    background-image: url(/library.jpeg);
+    background-size: cover;
+}
+.portfolio{
+    background-image: url(/portfolio.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+h2{
+    background: linear-gradient(to right,#35358a,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.project-info{
+    margin-top: 14rem;
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
+    background: linear-gradient(to right,#35358a,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contact-box{
+    height: 6em;
+    width: 6em;
+    border: 2px solid white;
+    border-radius: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 30px 20px #090037;
+    display: flex;
+    justify-content: space-evenly;
+}
+.linkedin{
+    background-image: url(/linkedinlogo.webp);
+    background-size: cover;
+}
+.whatsapp{
+    background-image: url(/whatsapplogo.webp);
+    background-size: cover;
+}
+.telegram{
+    background-image: url(/Telegramlogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.instagram{
+    background-image: url(/instagramlogo.webp);
+    background-size: cover;
+}
+.Xlogo{
+    background-image: url(/Xlogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    background: linear-gradient(to right,#1611ab,#c01212 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a{
+    text-decoration: none;
+}
+
+@media (max-width: 1024px) {
+    .profileimg{
+        padding-left: 35%;
+        padding-top: 4em;
+    }
+    .skill-container{
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        margin-top: 4em;
+    }
+    .skill-box{
+        width: 80%;
+        margin-bottom: 2em;
+        height: auto;
+        min-height: 10em;
+    }
+    .project-box{
+        width: 80%;
+        margin-bottom: 2em;
+        height: auto;
+        min-height: 25em;
+    }
+    .tagline {
+        width: 50%;
+        font-size: 1.2rem;
+    }
+}
+@media (max-width: 600px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 0;
+    }
+    .logo {
+        padding: 0 0 0.5em 0;
+        text-align: center;
+        font-size: 1.5em;
+        width: 100%; 
+    }
+    .features {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        margin-left: 0;
+        padding-right: 0;
+        width: 100%;
+        font-size: 1.2em;
+    }
+    .features{ 
+        padding: 5px 0; 
+        text-align: center;
+        width: 100%; 
+    }
+    .project-info{
+        font-size: 2em;
+        margin-top: 12rem;
+        word-wrap: break-word; 
+        max-width: 90%; 
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .profile-img{
+        height: 150px;
+        width: 150px;
+        border: 5px solid #090037;
+    }
+    .profileimg{
+        padding-left: 0;
+        text-align: center;
+    }
+    .imgaurav{
+        font-size: 2em;
+    }
+    .tagline {
+        width: 80%;
+        font-size: 1rem;
+        padding: 5px;
+        margin-top: 1.5em;
+    }
+    .para-about-me{
+        width: 90%;
+        font-size: 1.2em;
+    }
+    .skill-box{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .project-box{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .project-img{
+        width: 90%;
+        height: 10em;
+    }
+}
